@@ -1,0 +1,9 @@
+*.zip
+*.b64
+*.sh
+*.jar
+*.gz
+*.tgz
+*.exe
+*.msixbundle
+*.tar
